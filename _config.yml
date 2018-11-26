@@ -1,6 +1,6 @@
 # Site settings
 title: 이미영의 홈쇼핑 - 중고마켓
-email: leemiyeong@leevra.com
+email: gamemarble@leevra.com
 description: 네이버 중고나라 카페, 일반 마트 만족도 1위 셀러 이미영의 홈쇼핑 중고마켓, 까페형 중고장터 사이트.
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -21,7 +21,7 @@ newsourceroot: https://github.com/leevra/leevra.github.io/new/master
 #duoshuo_shortname: leevra
 #duoshuo_url: "http://leevra.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: leemiyeong
+disqus_shortname: gamemarble
 disqus_url: "https://leemiyeong.leevra.com"
 #########################################
 
