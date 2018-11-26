@@ -9,13 +9,13 @@ permalink: /crew-edu
 <br>
 아래 순서대로 진행해주세요.
 
-&nbsp;
+<br><br>
 
 1. https://obsproject.com/ 접속 후 윈도우 사용자는 window와 같이 선택해줍니다. 그러고 설치 시작!
 <br><br>
 2. OBS을 실행시킵니다.
 
-&nbsp;
+<br><br>
 
 3. 우측 하단의 설정 버튼을 누릅니다.
 <br><br>
@@ -29,6 +29,6 @@ permalink: /crew-edu
 <br><br>
 <img class="alignnone size-full wp-image-464" src="/images/스트림키.jpg" alt="" width="712" height="217" />
 
-&nbsp;
+<br><br>
 
 모든 준비가 되셨다면 이제 방송시작 버튼만 누르시면 정상적으로 생방송이 가능합니다.
