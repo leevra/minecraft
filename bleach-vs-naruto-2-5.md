@@ -5,4 +5,4 @@ permalink: /bleach-vs-naruto-2-5
 ---
 
 
-<center><iframe src="http://kdata1.com/2016/02/bleachvsnaruto25/" width="100%" height="100%" scrolling="no"></iframe></center>
+<center><iframe src="http://kdata1.com/2016/02/bleachvsnaruto25/" width="100%" height="600" scrolling="no"></iframe></center>
