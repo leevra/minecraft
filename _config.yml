@@ -9,8 +9,6 @@
 title: 겜마블 팬사이트
 email: gamemarble@leevra.com
 description: 마인크래프트 전문 게임BJ 겜마블 공식 팬사이트 > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
-  
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://gamemarble.leevra.com" # the base hostname & protocol for your site
