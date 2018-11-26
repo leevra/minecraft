@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 나루토 vs 블리치 2.5 게임하기
 permalink: /bleach-vs-naruto-2-5
 ---
