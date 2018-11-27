@@ -12,7 +12,7 @@ description: 마인크래프트 전문 게임BJ 겜마블 공식 팬사이트 > 
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://gamemarble.leevra.com" # the base hostname & protocol for your site
-permalink: post
+
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
