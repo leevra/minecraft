@@ -3,7 +3,7 @@
            {% if page.img %}
             <img width="600" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
             {% else %}
-            <img width="600" src="{{site.baseurl}}/images/{{site.default-image}}" alt="webjeda">
+            <img width="600" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
             {% endif %}
         </div>
             
@@ -11,7 +11,7 @@
         <div class="mt10 recent">
             <h2>Recent articles</h2>        
              <ul>
-                {% for post in site.related_posts limit:3 %}
+                {% for post in site.related_posts limit:5 %}
 
                       <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small>&nbsp;&nbsp;{{ post.date | date_to_string }}</small></p>
@@ -20,11 +20,30 @@
                 {% endfor %}
               </ul>
         </div>
-        {% if site.fb-like-box %}
+       
+
+	   {% if site.sens-box %}
         <div class="mt10">
-            <div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-width="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="{{site.fb-page-url}}">{{site.fb-page-title}}</a></blockquote></div>
+           
+		  
+<center>		  
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- a4 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9965606273577507"
+     data-ad-slot="5104738248"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+</center>		   
+	
+	
         </div>
         {% endif %}
-        <br>
+        
+		<br>
 
 </div>
