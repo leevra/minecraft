@@ -3,7 +3,7 @@ layout: default
 title: 블랙선(blacksun)
 permalink: /blacksun
 ---
-
+<br>
 
 <center><div class="miniclip-game-embed" data-game-name="black-sun" data-theme="0" data-width="1000" data-height="594" data-language="en"></div>
 
