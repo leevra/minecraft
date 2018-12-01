@@ -10,7 +10,7 @@ title: 겜마블 팬사이트
 email: gamemarble@leevra.com
 description: 마인크래프트 전문 게임BJ 겜마블 공식 팬사이트 > # this means to ignore newlines until "baseurl:"
   
-baseurl: "/safasf" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://minecraft.leeseungju.com" # the base hostname & protocol for your site
 
 
